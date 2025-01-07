@@ -1,6 +1,8 @@
 # amyAI-Tool
 OpenAgent is an innovative multi-agent AI platform leveraging blockchain technology. Our platform enables smart and strategic AI interactions within a decentralized ecosystem.
-✨ Features
+
+
+    ✨ Features
 
     AI Generator (Generate text, image, code, chat and even more with)
     Post Title Generator 
