@@ -1,5 +1,6 @@
 # amyAI-Tool
-OpenAgent is an innovative multi-agent AI platform leveraging blockchain technology. Our platform enables smart and strategic AI interactions within a decentralized ecosystem.
+amyAI is an innovative multi-agent AI platform leveraging blockchain technology. 
+All-in-one platform to generate AI Contents powered with solana. Our platform enables smart and strategic AI interactions within a decentralized ecosystem.
 
 
     ✨ Features
